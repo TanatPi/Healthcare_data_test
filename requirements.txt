@@ -1,0 +1,6 @@
+python == 3.11.7
+pandas
+numpy
+scipy
+seaborn
+matplotlib
